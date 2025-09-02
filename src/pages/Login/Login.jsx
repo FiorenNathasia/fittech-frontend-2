@@ -151,7 +151,7 @@ function Login() {
               borderBottom: "3px solid #FF6262",
               borderLeft: "3px solid #4B51F4",
               borderRadius: "41px",
-              marginTop: { xs: 10, sm: 18 },
+              marginTop: { xs: 18, sm: 18 },
             }}
           >
             <Box

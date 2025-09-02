@@ -83,6 +83,13 @@ function Signup() {
             <img src={pill} alt="pill" width="10rem" />
             TECH
           </Typography>
+          <Typography
+            sx={{ fontSize: "0.8rem", color: "white" }}
+            variant="h3"
+            gutterBottom
+          >
+            An all in one smart playlist for your favourite workouts
+          </Typography>
         </Box>
         <Box
           component="form"
@@ -103,7 +110,7 @@ function Signup() {
             borderBottom: "3px solid #FF6262",
             borderLeft: "3px solid #4B51F4",
             borderRadius: "41px",
-            marginTop: { xs: "2rem", sm: "0rem" },
+            marginTop: { xs: "5rem", sm: "6rem" },
           }}
         >
           <Box
